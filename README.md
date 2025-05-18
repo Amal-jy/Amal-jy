@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Amal-jy
+- 👋 Hi, I’m Amal Joy
 - 👀 I’m interested in Automation in Enterprise Monitoring Tools
 - 🌱 I’m currently learning 
 - 💞️ I'm here to learn the automation through experts
